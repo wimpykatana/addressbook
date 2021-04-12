@@ -1,0 +1,19 @@
+.item-list {
+  background-color: rgba(255, 255, 255, 0.03);
+  padding: 20px 0;
+}
+
+.propic-holder {
+  border-right: 4px solid #4298c3;
+}
+
+.detail-holder {
+  padding-left: 20px;
+}
+
+.name-holder {
+  text-transform: capitalize;
+  font-size: 1.8em;
+  font-family: "Oswald", sans-serif;
+  margin-bottom: 5px;
+}
