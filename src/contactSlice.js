@@ -30,10 +30,6 @@ export const getContactAsync = dispatch =>{
         dispatch(getContact(result));
     })
 
-
-    // setTimeout(() => {
-    //     dispatch(getContact("aaa"));
-    // }, 5000);
 }
 
 export const contactVal = state => state.contact;
